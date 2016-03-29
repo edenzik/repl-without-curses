@@ -4,4 +4,4 @@ This is just a repl loop that doesn't use curses. Some C++ sprinkled in but coul
 ## Building
 
 ```
-make repl.c -o repl
+gcc repl.c -o repl
